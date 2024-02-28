@@ -1,4 +1,4 @@
-# Image-Generation-Facecial-Recognition
+# Image-Generation-Facial-Recognition
 Implementations:
 
 1- Implementing a facial recognition system.
