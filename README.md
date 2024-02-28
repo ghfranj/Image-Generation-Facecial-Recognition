@@ -1,10 +1,16 @@
 # Image-Generation-Facecial-Recognition
 Implementations:
+
 1- Implementing a facial recognition system.
+
 2- Training a feature extractor on the LFW dataset.
+
 3- During training, every N epochs, an assessment is run of the quality of the extractor and shown in the logs the best found threshold and its F1 measure.
+
 4- Implementing the face alignment function (face cut + rotate + resize).
+
 5- Testing the pipeline (detection + alignment + feature extraction) on real images.
+
 6- Recognition results on video are displayed (reading each frame using cv2.VideoCapture and drawing these frames into the output video via cv2.VideoWriter. Drawing face boxes on the frames, the name of the face and the confidence of the face match).
 
 Steps:
